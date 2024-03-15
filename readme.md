@@ -1,4 +1,4 @@
-# Technial test for HelloCSE
+# Technical test for HelloCSE
 
 Hi. You'll find in this repository my work for HelloCSE technical test.
 
