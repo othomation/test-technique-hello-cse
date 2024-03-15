@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = .\\backend\\
+	url = git@github.com:othomation/backend-hellocse.git
 [submodule "frontend"]
 	path = frontend
-	url = .\\frontend\\
+	url = git@github.com:othomation/frontend-hellocse.git
