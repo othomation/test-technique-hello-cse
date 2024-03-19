@@ -34,6 +34,9 @@ composer install
 # Generate app key
 php artisan key:generate
 
+# Migrate db
+php artisan migrate
+
 # (optional) run tests
 php artisan test
 
